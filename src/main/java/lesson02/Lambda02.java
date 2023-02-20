@@ -1,3 +1,5 @@
+package lesson02;
+
 import java.util.Arrays;
 import java.util.function.BiFunction;
 import java.util.function.Consumer;

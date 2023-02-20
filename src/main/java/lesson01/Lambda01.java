@@ -1,3 +1,5 @@
+package lesson01;
+
 import java.util.function.*;
 
 public class Lambda01 {
